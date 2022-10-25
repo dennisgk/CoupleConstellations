@@ -1,0 +1,1710 @@
+[api-updater (non-obsolete-error-filter)] 12/19/2021 1:09:28 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 82.551ms
+moved types parse time: 125ms
+candidates parse time : 4ms
+C# parse time         : 477ms
+candidates check time : 87ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/19/2021 1:09:30 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 114.604ms
+moved types parse time: 127ms
+candidates parse time : 5ms
+C# parse time         : 481ms
+candidates check time : 89ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/19/2021 1:10:16 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 135.707ms
+moved types parse time: 126ms
+candidates parse time : 5ms
+C# parse time         : 489ms
+candidates check time : 93ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/19/2021 1:40:26 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 139.696ms
+moved types parse time: 132ms
+candidates parse time : 4ms
+C# parse time         : 492ms
+candidates check time : 83ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/19/2021 1:45:00 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 145.877ms
+moved types parse time: 128ms
+candidates parse time : 4ms
+C# parse time         : 460ms
+candidates check time : 88ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/19/2021 2:16:04 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 176.889ms
+moved types parse time: 132ms
+candidates parse time : 4ms
+C# parse time         : 475ms
+candidates check time : 116ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/19/2021 2:16:34 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 164.574ms
+moved types parse time: 130ms
+candidates parse time : 4ms
+C# parse time         : 458ms
+candidates check time : 81ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/19/2021 2:40:48 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 162.875ms
+moved types parse time: 126ms
+candidates parse time : 5ms
+C# parse time         : 458ms
+candidates check time : 77ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/19/2021 3:19:52 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 154.397ms
+moved types parse time: 130ms
+candidates parse time : 6ms
+C# parse time         : 484ms
+candidates check time : 83ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/19/2021 8:45:54 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 134.366ms
+moved types parse time: 133ms
+candidates parse time : 5ms
+C# parse time         : 504ms
+candidates check time : 161ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/19/2021 8:47:54 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 139.984ms
+moved types parse time: 124ms
+candidates parse time : 5ms
+C# parse time         : 476ms
+candidates check time : 129ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/19/2021 8:48:48 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 115.995ms
+moved types parse time: 130ms
+candidates parse time : 6ms
+C# parse time         : 491ms
+candidates check time : 117ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/19/2021 8:49:31 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 112.208ms
+moved types parse time: 121ms
+candidates parse time : 5ms
+C# parse time         : 465ms
+candidates check time : 143ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/19/2021 8:49:49 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 142.708ms
+moved types parse time: 141ms
+candidates parse time : 5ms
+C# parse time         : 586ms
+candidates check time : 173ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/19/2021 9:19:48 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 157.073ms
+moved types parse time: 135ms
+candidates parse time : 5ms
+C# parse time         : 496ms
+candidates check time : 223ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/19/2021 11:29:34 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 163.013ms
+moved types parse time: 130ms
+candidates parse time : 5ms
+C# parse time         : 489ms
+candidates check time : 133ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/20/2021 6:03:36 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 159.163ms
+moved types parse time: 129ms
+candidates parse time : 4ms
+C# parse time         : 485ms
+candidates check time : 105ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/20/2021 6:42:45 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 181.912ms
+moved types parse time: 129ms
+candidates parse time : 5ms
+C# parse time         : 506ms
+candidates check time : 115ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/20/2021 10:30:14 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 202.358ms
+moved types parse time: 138ms
+candidates parse time : 5ms
+C# parse time         : 493ms
+candidates check time : 134ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/20/2021 11:33:50 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 212.801ms
+moved types parse time: 139ms
+candidates parse time : 5ms
+C# parse time         : 517ms
+candidates check time : 152ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/20/2021 11:34:33 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 157.782ms
+moved types parse time: 129ms
+candidates parse time : 5ms
+C# parse time         : 549ms
+candidates check time : 89ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/20/2021 11:34:49 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 186.741ms
+moved types parse time: 135ms
+candidates parse time : 5ms
+C# parse time         : 558ms
+candidates check time : 95ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/20/2021 11:35:21 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 218.29ms
+moved types parse time: 141ms
+candidates parse time : 5ms
+C# parse time         : 511ms
+candidates check time : 90ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/20/2021 11:35:45 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 177.829ms
+moved types parse time: 142ms
+candidates parse time : 5ms
+C# parse time         : 539ms
+candidates check time : 95ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/21/2021 10:22:49 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 158.283ms
+moved types parse time: 125ms
+candidates parse time : 5ms
+C# parse time         : 515ms
+candidates check time : 359ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/21/2021 11:32:01 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 165.425ms
+moved types parse time: 135ms
+candidates parse time : 5ms
+C# parse time         : 355ms
+candidates check time : 64ms
+console write time    : 3ms
+
+[api-updater (non-obsolete-error-filter)] 12/22/2021 5:24:12 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 175.857ms
+moved types parse time: 127ms
+candidates parse time : 5ms
+C# parse time         : 458ms
+candidates check time : 141ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/22/2021 5:25:25 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 150.358ms
+moved types parse time: 135ms
+candidates parse time : 6ms
+C# parse time         : 463ms
+candidates check time : 144ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/22/2021 5:26:51 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 122.46ms
+moved types parse time: 132ms
+candidates parse time : 5ms
+C# parse time         : 489ms
+candidates check time : 147ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/22/2021 5:27:46 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 152.881ms
+moved types parse time: 147ms
+candidates parse time : 8ms
+C# parse time         : 534ms
+candidates check time : 167ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/22/2021 5:28:40 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 141.685ms
+moved types parse time: 132ms
+candidates parse time : 5ms
+C# parse time         : 462ms
+candidates check time : 126ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/22/2021 5:29:58 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 152.918ms
+moved types parse time: 138ms
+candidates parse time : 5ms
+C# parse time         : 522ms
+candidates check time : 133ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/22/2021 5:30:20 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 167.434ms
+moved types parse time: 136ms
+candidates parse time : 5ms
+C# parse time         : 485ms
+candidates check time : 115ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/22/2021 5:30:36 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 144.46ms
+moved types parse time: 148ms
+candidates parse time : 4ms
+C# parse time         : 509ms
+candidates check time : 129ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/22/2021 5:31:08 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 153.57ms
+moved types parse time: 134ms
+candidates parse time : 6ms
+C# parse time         : 468ms
+candidates check time : 120ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/22/2021 6:58:09 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 161.473ms
+moved types parse time: 128ms
+candidates parse time : 5ms
+C# parse time         : 475ms
+candidates check time : 239ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 1:11:51 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 226.808ms
+moved types parse time: 140ms
+candidates parse time : 5ms
+C# parse time         : 499ms
+candidates check time : 96ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 1:12:26 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 145.947ms
+moved types parse time: 131ms
+candidates parse time : 6ms
+C# parse time         : 465ms
+candidates check time : 86ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 1:13:28 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 178.879ms
+moved types parse time: 129ms
+candidates parse time : 4ms
+C# parse time         : 451ms
+candidates check time : 90ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 1:13:49 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 164.951ms
+moved types parse time: 129ms
+candidates parse time : 5ms
+C# parse time         : 472ms
+candidates check time : 91ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 1:16:22 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 169.077ms
+moved types parse time: 135ms
+candidates parse time : 5ms
+C# parse time         : 487ms
+candidates check time : 86ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 1:40:09 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 218.626ms
+moved types parse time: 158ms
+candidates parse time : 5ms
+C# parse time         : 522ms
+candidates check time : 179ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 2:34:55 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 163.582ms
+moved types parse time: 131ms
+candidates parse time : 6ms
+C# parse time         : 495ms
+candidates check time : 163ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 2:35:10 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 173.011ms
+moved types parse time: 148ms
+candidates parse time : 5ms
+C# parse time         : 510ms
+candidates check time : 90ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 3:04:10 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 158.77ms
+moved types parse time: 122ms
+candidates parse time : 4ms
+C# parse time         : 419ms
+candidates check time : 74ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 3:04:25 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 169.272ms
+moved types parse time: 139ms
+candidates parse time : 6ms
+C# parse time         : 444ms
+candidates check time : 81ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 3:11:14 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 200.291ms
+moved types parse time: 134ms
+candidates parse time : 5ms
+C# parse time         : 473ms
+candidates check time : 163ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 3:11:21 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 121.928ms
+moved types parse time: 129ms
+candidates parse time : 5ms
+C# parse time         : 449ms
+candidates check time : 105ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 3:11:44 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 197.47ms
+moved types parse time: 140ms
+candidates parse time : 6ms
+C# parse time         : 615ms
+candidates check time : 119ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 3:12:05 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 149.709ms
+moved types parse time: 144ms
+candidates parse time : 5ms
+C# parse time         : 460ms
+candidates check time : 97ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 3:12:11 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 112.641ms
+moved types parse time: 136ms
+candidates parse time : 5ms
+C# parse time         : 460ms
+candidates check time : 171ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 3:13:28 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 175.537ms
+moved types parse time: 130ms
+candidates parse time : 5ms
+C# parse time         : 543ms
+candidates check time : 201ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 3:14:54 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 176.107ms
+moved types parse time: 141ms
+candidates parse time : 5ms
+C# parse time         : 501ms
+candidates check time : 180ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 3:15:21 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 195.533ms
+moved types parse time: 137ms
+candidates parse time : 5ms
+C# parse time         : 566ms
+candidates check time : 210ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 3:15:23 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 127.605ms
+moved types parse time: 155ms
+candidates parse time : 5ms
+C# parse time         : 480ms
+candidates check time : 149ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 4:25:02 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 197.106ms
+moved types parse time: 146ms
+candidates parse time : 6ms
+C# parse time         : 562ms
+candidates check time : 117ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 4:48:51 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 223.504ms
+moved types parse time: 143ms
+candidates parse time : 5ms
+C# parse time         : 512ms
+candidates check time : 147ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 4:48:58 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 184.025ms
+moved types parse time: 140ms
+candidates parse time : 6ms
+C# parse time         : 539ms
+candidates check time : 114ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 4:49:45 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 213.921ms
+moved types parse time: 146ms
+candidates parse time : 6ms
+C# parse time         : 522ms
+candidates check time : 119ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 5:08:40 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 194.168ms
+moved types parse time: 152ms
+candidates parse time : 5ms
+C# parse time         : 568ms
+candidates check time : 208ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 5:09:04 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 168.489ms
+moved types parse time: 121ms
+candidates parse time : 4ms
+C# parse time         : 492ms
+candidates check time : 107ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 5:09:16 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 170.57ms
+moved types parse time: 123ms
+candidates parse time : 5ms
+C# parse time         : 493ms
+candidates check time : 128ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 5:09:28 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 169.914ms
+moved types parse time: 135ms
+candidates parse time : 6ms
+C# parse time         : 546ms
+candidates check time : 122ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 5:47:22 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 186.872ms
+moved types parse time: 125ms
+candidates parse time : 4ms
+C# parse time         : 415ms
+candidates check time : 146ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 5:53:57 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 196.084ms
+moved types parse time: 154ms
+candidates parse time : 5ms
+C# parse time         : 501ms
+candidates check time : 184ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 6:37:10 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 215.851ms
+moved types parse time: 139ms
+candidates parse time : 6ms
+C# parse time         : 493ms
+candidates check time : 94ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 6:37:32 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 193.688ms
+moved types parse time: 145ms
+candidates parse time : 7ms
+C# parse time         : 538ms
+candidates check time : 111ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 6:38:09 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 205.296ms
+moved types parse time: 130ms
+candidates parse time : 5ms
+C# parse time         : 477ms
+candidates check time : 90ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 6:38:31 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 211.382ms
+moved types parse time: 143ms
+candidates parse time : 6ms
+C# parse time         : 487ms
+candidates check time : 92ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 6:39:15 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 197.222ms
+moved types parse time: 150ms
+candidates parse time : 5ms
+C# parse time         : 485ms
+candidates check time : 93ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 6:39:17 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 192.474ms
+moved types parse time: 125ms
+candidates parse time : 5ms
+C# parse time         : 464ms
+candidates check time : 89ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 6:40:14 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 222.808ms
+moved types parse time: 140ms
+candidates parse time : 5ms
+C# parse time         : 501ms
+candidates check time : 88ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 7:26:16 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 211.086ms
+moved types parse time: 154ms
+candidates parse time : 6ms
+C# parse time         : 525ms
+candidates check time : 133ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 7:46:00 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 200.808ms
+moved types parse time: 139ms
+candidates parse time : 5ms
+C# parse time         : 510ms
+candidates check time : 93ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 8:46:43 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 206.379ms
+moved types parse time: 140ms
+candidates parse time : 6ms
+C# parse time         : 506ms
+candidates check time : 236ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 8:46:54 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 166.932ms
+moved types parse time: 151ms
+candidates parse time : 6ms
+C# parse time         : 562ms
+candidates check time : 233ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 8:52:46 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 212.278ms
+moved types parse time: 154ms
+candidates parse time : 6ms
+C# parse time         : 536ms
+candidates check time : 104ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 9:37:30 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 228.61ms
+moved types parse time: 132ms
+candidates parse time : 6ms
+C# parse time         : 504ms
+candidates check time : 176ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 10:15:24 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 213.549ms
+moved types parse time: 135ms
+candidates parse time : 5ms
+C# parse time         : 495ms
+candidates check time : 91ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 10:19:15 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 172.062ms
+moved types parse time: 124ms
+candidates parse time : 5ms
+C# parse time         : 496ms
+candidates check time : 99ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 10:20:07 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 191.191ms
+moved types parse time: 140ms
+candidates parse time : 6ms
+C# parse time         : 522ms
+candidates check time : 96ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 10:20:18 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 176.262ms
+moved types parse time: 126ms
+candidates parse time : 5ms
+C# parse time         : 492ms
+candidates check time : 89ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 10:59:10 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 236.744ms
+moved types parse time: 151ms
+candidates parse time : 8ms
+C# parse time         : 602ms
+candidates check time : 184ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 12/23/2021 11:15:55 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 246.606ms
+moved types parse time: 131ms
+candidates parse time : 4ms
+C# parse time         : 512ms
+candidates check time : 101ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 10:44:42 AM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 187.685ms
+moved types parse time: 141ms
+candidates parse time : 5ms
+C# parse time         : 554ms
+candidates check time : 102ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 10:55:28 AM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 178.204ms
+moved types parse time: 138ms
+candidates parse time : 5ms
+C# parse time         : 510ms
+candidates check time : 167ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 10:56:57 AM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 177.62ms
+moved types parse time: 139ms
+candidates parse time : 5ms
+C# parse time         : 492ms
+candidates check time : 154ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 12:00:40 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 190.649ms
+moved types parse time: 139ms
+candidates parse time : 5ms
+C# parse time         : 561ms
+candidates check time : 173ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 12:01:05 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 164.117ms
+moved types parse time: 131ms
+candidates parse time : 5ms
+C# parse time         : 573ms
+candidates check time : 186ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 12:16:26 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 200.249ms
+moved types parse time: 145ms
+candidates parse time : 5ms
+C# parse time         : 589ms
+candidates check time : 319ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 12:25:15 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 193.749ms
+moved types parse time: 138ms
+candidates parse time : 6ms
+C# parse time         : 536ms
+candidates check time : 238ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 12:25:40 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 158.757ms
+moved types parse time: 130ms
+candidates parse time : 5ms
+C# parse time         : 499ms
+candidates check time : 180ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 12:26:01 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 145.114ms
+moved types parse time: 148ms
+candidates parse time : 5ms
+C# parse time         : 525ms
+candidates check time : 200ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 12:26:03 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 119.308ms
+moved types parse time: 138ms
+candidates parse time : 5ms
+C# parse time         : 485ms
+candidates check time : 164ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 12:26:12 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 204.999ms
+moved types parse time: 124ms
+candidates parse time : 5ms
+C# parse time         : 470ms
+candidates check time : 224ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 12:26:20 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 119.826ms
+moved types parse time: 131ms
+candidates parse time : 5ms
+C# parse time         : 481ms
+candidates check time : 150ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 1:30:23 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 191.493ms
+moved types parse time: 144ms
+candidates parse time : 7ms
+C# parse time         : 599ms
+candidates check time : 169ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 1:30:36 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 137.552ms
+moved types parse time: 149ms
+candidates parse time : 7ms
+C# parse time         : 593ms
+candidates check time : 186ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 1:30:42 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 193.175ms
+moved types parse time: 140ms
+candidates parse time : 5ms
+C# parse time         : 549ms
+candidates check time : 173ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 1:31:17 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 164.251ms
+moved types parse time: 145ms
+candidates parse time : 6ms
+C# parse time         : 527ms
+candidates check time : 189ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 1:32:30 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 180.715ms
+moved types parse time: 147ms
+candidates parse time : 5ms
+C# parse time         : 550ms
+candidates check time : 162ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 1:32:39 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 152.519ms
+moved types parse time: 118ms
+candidates parse time : 5ms
+C# parse time         : 485ms
+candidates check time : 158ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 1:33:31 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 190.092ms
+moved types parse time: 157ms
+candidates parse time : 5ms
+C# parse time         : 573ms
+candidates check time : 166ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 1:33:42 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 159.895ms
+moved types parse time: 148ms
+candidates parse time : 6ms
+C# parse time         : 544ms
+candidates check time : 166ms
+console write time    : 6ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 1:47:26 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 204.723ms
+moved types parse time: 155ms
+candidates parse time : 7ms
+C# parse time         : 562ms
+candidates check time : 314ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 1:47:30 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 135.527ms
+moved types parse time: 130ms
+candidates parse time : 5ms
+C# parse time         : 533ms
+candidates check time : 235ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 1:47:36 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 170.305ms
+moved types parse time: 130ms
+candidates parse time : 5ms
+C# parse time         : 509ms
+candidates check time : 278ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 1:47:47 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 190.188ms
+moved types parse time: 150ms
+candidates parse time : 5ms
+C# parse time         : 551ms
+candidates check time : 241ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 1:48:19 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 218.916ms
+moved types parse time: 129ms
+candidates parse time : 5ms
+C# parse time         : 558ms
+candidates check time : 206ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 1:49:03 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 174.724ms
+moved types parse time: 154ms
+candidates parse time : 6ms
+C# parse time         : 551ms
+candidates check time : 215ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 1:49:22 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 192.028ms
+moved types parse time: 131ms
+candidates parse time : 5ms
+C# parse time         : 546ms
+candidates check time : 192ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 2:01:41 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 183.368ms
+moved types parse time: 167ms
+candidates parse time : 6ms
+C# parse time         : 600ms
+candidates check time : 287ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 2:01:45 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 134.556ms
+moved types parse time: 129ms
+candidates parse time : 6ms
+C# parse time         : 502ms
+candidates check time : 157ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 2:02:46 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 175.078ms
+moved types parse time: 146ms
+candidates parse time : 7ms
+C# parse time         : 570ms
+candidates check time : 172ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 2:02:55 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 143.02ms
+moved types parse time: 134ms
+candidates parse time : 6ms
+C# parse time         : 575ms
+candidates check time : 140ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 2:10:43 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 196.77ms
+moved types parse time: 139ms
+candidates parse time : 6ms
+C# parse time         : 570ms
+candidates check time : 247ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 2:10:49 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 142.904ms
+moved types parse time: 130ms
+candidates parse time : 6ms
+C# parse time         : 850ms
+candidates check time : 398ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 5:27:54 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 161.374ms
+moved types parse time: 130ms
+candidates parse time : 6ms
+C# parse time         : 548ms
+candidates check time : 384ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 5:28:27 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 154.162ms
+moved types parse time: 153ms
+candidates parse time : 6ms
+C# parse time         : 583ms
+candidates check time : 284ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 5:28:43 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 150.156ms
+moved types parse time: 139ms
+candidates parse time : 6ms
+C# parse time         : 573ms
+candidates check time : 122ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 5:28:53 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 124.102ms
+moved types parse time: 141ms
+candidates parse time : 6ms
+C# parse time         : 563ms
+candidates check time : 254ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 5:33:25 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 144.44ms
+moved types parse time: 132ms
+candidates parse time : 4ms
+C# parse time         : 534ms
+candidates check time : 176ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 5:33:27 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 135.521ms
+moved types parse time: 144ms
+candidates parse time : 5ms
+C# parse time         : 537ms
+candidates check time : 141ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 5:33:41 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 155.121ms
+moved types parse time: 132ms
+candidates parse time : 6ms
+C# parse time         : 556ms
+candidates check time : 180ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 5:34:04 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 134.894ms
+moved types parse time: 139ms
+candidates parse time : 14ms
+C# parse time         : 521ms
+candidates check time : 120ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 5:34:08 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 140.014ms
+moved types parse time: 125ms
+candidates parse time : 4ms
+C# parse time         : 540ms
+candidates check time : 122ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 5:34:55 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 88.817ms
+moved types parse time: 136ms
+candidates parse time : 4ms
+C# parse time         : 537ms
+candidates check time : 111ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 5:34:57 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 83.516ms
+moved types parse time: 124ms
+candidates parse time : 5ms
+C# parse time         : 511ms
+candidates check time : 112ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 5:36:02 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 187.74ms
+moved types parse time: 132ms
+candidates parse time : 6ms
+C# parse time         : 538ms
+candidates check time : 117ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 5:37:03 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 138.849ms
+moved types parse time: 141ms
+candidates parse time : 6ms
+C# parse time         : 599ms
+candidates check time : 119ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 5:37:33 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 178.917ms
+moved types parse time: 132ms
+candidates parse time : 5ms
+C# parse time         : 573ms
+candidates check time : 121ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 5:38:38 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 150.805ms
+moved types parse time: 131ms
+candidates parse time : 4ms
+C# parse time         : 539ms
+candidates check time : 114ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 5:39:08 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 267.471ms
+moved types parse time: 142ms
+candidates parse time : 6ms
+C# parse time         : 533ms
+candidates check time : 216ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 5:39:19 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 134.933ms
+moved types parse time: 131ms
+candidates parse time : 5ms
+C# parse time         : 531ms
+candidates check time : 115ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 5:48:33 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 157.104ms
+moved types parse time: 126ms
+candidates parse time : 5ms
+C# parse time         : 530ms
+candidates check time : 108ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 5:48:45 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 172.374ms
+moved types parse time: 126ms
+candidates parse time : 4ms
+C# parse time         : 562ms
+candidates check time : 116ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 5:48:48 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 94.502ms
+moved types parse time: 127ms
+candidates parse time : 5ms
+C# parse time         : 573ms
+candidates check time : 125ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 5:55:06 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 179.099ms
+moved types parse time: 150ms
+candidates parse time : 7ms
+C# parse time         : 600ms
+candidates check time : 126ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 5:55:13 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 150.507ms
+moved types parse time: 121ms
+candidates parse time : 4ms
+C# parse time         : 524ms
+candidates check time : 110ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 5:55:18 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 128.492ms
+moved types parse time: 118ms
+candidates parse time : 6ms
+C# parse time         : 565ms
+candidates check time : 113ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 5:55:49 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 167.331ms
+moved types parse time: 126ms
+candidates parse time : 4ms
+C# parse time         : 532ms
+candidates check time : 114ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 5:56:26 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 187.684ms
+moved types parse time: 138ms
+candidates parse time : 5ms
+C# parse time         : 599ms
+candidates check time : 120ms
+console write time    : 3ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 5:58:04 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 168.94ms
+moved types parse time: 137ms
+candidates parse time : 5ms
+C# parse time         : 619ms
+candidates check time : 125ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 6:01:07 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 242.073ms
+moved types parse time: 149ms
+candidates parse time : 6ms
+C# parse time         : 665ms
+candidates check time : 140ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 6:01:57 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 154.769ms
+moved types parse time: 130ms
+candidates parse time : 5ms
+C# parse time         : 562ms
+candidates check time : 124ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 6:01:59 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 127.288ms
+moved types parse time: 133ms
+candidates parse time : 8ms
+C# parse time         : 600ms
+candidates check time : 168ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 6:02:10 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 173.155ms
+moved types parse time: 138ms
+candidates parse time : 5ms
+C# parse time         : 565ms
+candidates check time : 380ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 7:13:16 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 245.375ms
+moved types parse time: 144ms
+candidates parse time : 6ms
+C# parse time         : 548ms
+candidates check time : 141ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/24/2021 7:13:24 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 192.904ms
+moved types parse time: 131ms
+candidates parse time : 5ms
+C# parse time         : 462ms
+candidates check time : 91ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/27/2021 4:59:20 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 150.306ms
+moved types parse time: 130ms
+candidates parse time : 4ms
+C# parse time         : 508ms
+candidates check time : 94ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/27/2021 6:00:33 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 213.023ms
+moved types parse time: 148ms
+candidates parse time : 6ms
+C# parse time         : 655ms
+candidates check time : 140ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 12/27/2021 6:52:15 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 173.226ms
+moved types parse time: 134ms
+candidates parse time : 5ms
+C# parse time         : 550ms
+candidates check time : 125ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/27/2021 7:03:17 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 150.506ms
+moved types parse time: 135ms
+candidates parse time : 5ms
+C# parse time         : 523ms
+candidates check time : 155ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/27/2021 7:20:11 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 201.378ms
+moved types parse time: 149ms
+candidates parse time : 8ms
+C# parse time         : 617ms
+candidates check time : 278ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/27/2021 7:20:14 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 143.52ms
+moved types parse time: 155ms
+candidates parse time : 7ms
+C# parse time         : 614ms
+candidates check time : 201ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/27/2021 9:29:55 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 187.555ms
+moved types parse time: 128ms
+candidates parse time : 4ms
+C# parse time         : 530ms
+candidates check time : 117ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/27/2021 9:31:10 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 178.974ms
+moved types parse time: 155ms
+candidates parse time : 6ms
+C# parse time         : 541ms
+candidates check time : 243ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/27/2021 9:37:21 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 185.309ms
+moved types parse time: 136ms
+candidates parse time : 6ms
+C# parse time         : 547ms
+candidates check time : 106ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/27/2021 9:47:35 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 196.592ms
+moved types parse time: 129ms
+candidates parse time : 5ms
+C# parse time         : 518ms
+candidates check time : 103ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/27/2021 9:47:41 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 160.464ms
+moved types parse time: 132ms
+candidates parse time : 8ms
+C# parse time         : 590ms
+candidates check time : 110ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/27/2021 9:47:45 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 152.437ms
+moved types parse time: 138ms
+candidates parse time : 7ms
+C# parse time         : 567ms
+candidates check time : 98ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/27/2021 9:48:35 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 205.22ms
+moved types parse time: 149ms
+candidates parse time : 6ms
+C# parse time         : 580ms
+candidates check time : 99ms
+console write time    : 3ms
+
+[api-updater (non-obsolete-error-filter)] 12/27/2021 9:49:16 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 187.327ms
+moved types parse time: 160ms
+candidates parse time : 5ms
+C# parse time         : 560ms
+candidates check time : 94ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/27/2021 9:49:59 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 197.51ms
+moved types parse time: 157ms
+candidates parse time : 5ms
+C# parse time         : 579ms
+candidates check time : 95ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/27/2021 9:50:08 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 156.262ms
+moved types parse time: 129ms
+candidates parse time : 5ms
+C# parse time         : 536ms
+candidates check time : 100ms
+console write time    : 3ms
+
+[api-updater (non-obsolete-error-filter)] 12/28/2021 8:49:43 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 191.22ms
+moved types parse time: 146ms
+candidates parse time : 5ms
+C# parse time         : 592ms
+candidates check time : 137ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 12/29/2021 10:47:03 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 189.92ms
+moved types parse time: 133ms
+candidates parse time : 4ms
+C# parse time         : 563ms
+candidates check time : 115ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/29/2021 10:47:15 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 161.855ms
+moved types parse time: 136ms
+candidates parse time : 5ms
+C# parse time         : 552ms
+candidates check time : 121ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/29/2021 10:47:48 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 119.267ms
+moved types parse time: 138ms
+candidates parse time : 4ms
+C# parse time         : 520ms
+candidates check time : 154ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/29/2021 10:47:53 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 122.597ms
+moved types parse time: 146ms
+candidates parse time : 5ms
+C# parse time         : 551ms
+candidates check time : 120ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/29/2021 10:48:05 PM : Starting /Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 139.199ms
+moved types parse time: 131ms
+candidates parse time : 5ms
+C# parse time         : 556ms
+candidates check time : 115ms
+console write time    : 1ms
+

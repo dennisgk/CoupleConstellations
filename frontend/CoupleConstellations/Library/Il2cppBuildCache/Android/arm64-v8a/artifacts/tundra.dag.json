@@ -1,0 +1,131 @@
+{
+  "Nodes": [
+    {
+      "Annotation": "all_tundra_nodes",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [
+        1
+      ],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 0
+    },
+    {
+      "Annotation": "Il2Cpp /Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Library/Il2cppBuildCache/Android/arm64-v8a/il2cppOutput/Data/Metadata/global-metadata.dat",
+      "Action": "\"/Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/il2cpp/build/deploy/netcoreapp3.1/il2cpp\" --convert-to-cpp --emit-null-checks --enable-array-bounds-check --dotnetprofile=\"unityaot\" --incremental-g-c-time-slice=3 --baselib-directory=\"/Users/denniskountouris/UnityProjects/2020.3.25f1/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Release/StaticLibs/arm64-v8a\" --avoid-dynamic-library-copy --profiler-report --map-file-parser=\"/Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/Tools/MapFileParser/MapFileParser\" --directory=\"/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed\" --generatedcppdir=\"/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Library/Il2cppBuildCache/Android/arm64-v8a/il2cppOutput\" --stats-output-dir=\"/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Library/Il2cppBuildCache/Android/arm64-v8a/il2cppStats\"",
+      "Inputs": [
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed",
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed/Assembly-CSharp.dll",
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed/Mono.Security.dll",
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed/NativeGallery.Runtime.dll",
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed/System.Configuration.dll",
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed/System.Core.dll",
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed/System.Xml.dll",
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed/System.dll",
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed/Unity.Mathematics.dll",
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll",
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed/Unity.RenderPipelines.Core.Runtime.dll",
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll",
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed/Unity.TextMeshPro.dll",
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AndroidJNIModule.dll",
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AnimationModule.dll",
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AudioModule.dll",
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.CoreModule.dll",
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.GridModule.dll",
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.IMGUIModule.dll",
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.ImageConversionModule.dll",
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.InputLegacyModule.dll",
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.InputModule.dll",
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.JSONSerializeModule.dll",
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.ParticleSystemModule.dll",
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.Physics2DModule.dll",
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.PhysicsModule.dll",
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SharedInternalsModule.dll",
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SpriteShapeModule.dll",
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SubsystemsModule.dll",
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TextCoreModule.dll",
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TextRenderingModule.dll",
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TilemapModule.dll",
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UI.dll",
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UIModule.dll",
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.VRModule.dll",
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.XRModule.dll",
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.dll",
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Temp/StagingArea/assets/bin/Data/Managed/mscorlib.dll",
+        "\"/Users/denniskountouris/UnityProjects/2020.3.25f1/Unity.app/Contents/il2cpp/build/deploy/netcoreapp3.1/il2cpp\""
+      ],
+      "Outputs": [
+        "/Users/denniskountouris/UnityProjects/Constellations/CoupleConstellations/Library/Il2cppBuildCache/Android/arm64-v8a/il2cppOutput/Data/Metadata/global-metadata.dat"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": false,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 1
+    }
+  ],
+  "FileSignatures": [
+    {
+      "File": "../../../../../../../Library"
+    },
+    {
+      "File": "../../../../Temp/StagingArea/assets/bin/Data/Managed"
+    },
+    {
+      "File": "artifacts/buildprogram/tundra_buildprogram.dag.json"
+    },
+    {
+      "File": "il2cpp_settings.json"
+    },
+    {
+      "File": "unitylinker_settings.json"
+    }
+  ],
+  "GlobSignatures": [
+    {
+      "Path": "../../../../Temp/StagingArea/assets/bin/Data/Managed"
+    }
+  ],
+  "ContentDigestExtensions": [
+    ".rsp",
+    ".dll",
+    ".exe",
+    ".txt",
+    ".c",
+    ".cpp",
+    ".h",
+    ".cs",
+    ".hpp"
+  ],
+  "StructuredLogFileName": "artifacts/tundra.log.json",
+  "StateFileName": "artifacts/TundraBuildState.state",
+  "StateFileNameTmp": "artifacts/TundraBuildState.state.tmp",
+  "ScanCacheFileName": "artifacts/tundra.scancache",
+  "ScanCacheFileNameTmp": "artifacts/tundra.scancache.tmp",
+  "DigestCacheFileName": "artifacts/tundra.digestcache",
+  "DigestCacheFileNameTmp": "artifacts/tundra.digestcache.tmp",
+  "DirectoriesCausingImplicitDependencies": [],
+        "NamedNodes": {
+          "all_tundra_nodes": 0
+        }
+,  "DefaultNodes": [
+    0
+  ],
+  "SharedResources": [],
+  "Scanners": [],
+  "Identifier": "artifacts/tundra.dag.json",
+  "BuildTitle": "Bee",
+  "RelativePathToRoot": ".."
+}

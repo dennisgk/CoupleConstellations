@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{CB924483-65D6-AD6F-9FF4-7AB5A2C57106}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Stars/ConstellationHandler.cs">
+    <Files>
+      <File FileName="Assets/Stars/ConstellationHandler.cs" Line="473" Column="6" />
+      <File FileName="Assets/TouchInput/SwipeDetector.cs" />
+      <File FileName="Assets/InfoPane/DataScroll.cs" />
+      <File FileName="Assets/Stars/Triangulator.cs" />
+      <File FileName="Assets/CameraUtils/GyroManager.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CoupleConstellations" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="CameraUtils" expanded="True" />
+              <Node name="Editor" expanded="True" />
+              <Node name="InfoPane" expanded="True" />
+              <Node name="Stars" expanded="True">
+                <Node name="ConstellationHandler.cs" selected="True" />
+              </Node>
+              <Node name="TouchInput" expanded="True" />
+              <Node name="UserUtils" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0e77b9d8-2f44-4028-a24d-a600180ca1f4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
