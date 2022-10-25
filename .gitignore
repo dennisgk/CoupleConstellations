@@ -2,3 +2,4 @@ backend/CoupleConstellationsServer/node_modules
 backend/CoupleConstellationsServer/serv.code_workspace
 .git
 frontened/CoupleConstellations/Library/*
+frontened/CoupleConstellations/Library/**/*
